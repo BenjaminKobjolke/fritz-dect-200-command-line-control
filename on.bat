@@ -1,0 +1,1 @@
+fritzctl.exe switch on "FRITZ!DECT WHATEVER"

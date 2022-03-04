@@ -1,0 +1,1 @@
+fritzctl.exe switch off "FRITZ!DECT WHATEVER"

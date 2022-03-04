@@ -1,0 +1,1 @@
+fritzctl.exe list
