@@ -1,1 +1,1 @@
-fritzctl.exe switch off "FRITZ!DECT WHATEVER"
+fritzctl.exe switch off "FRITZ!DECT Design13"

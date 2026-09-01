@@ -1,1 +1,1 @@
-fritzctl.exe switch on "FRITZ!DECT WHATEVER"
+fritzctl.exe switch on "FRITZ!DECT Design13"
